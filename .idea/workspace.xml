@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c70f2739-c0d6-422a-af78-51cddd44c96d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/.idea/Sp24-ITEC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-1-introduction/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/Number_of_credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/Travel_expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/astronauts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/greeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/invoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/miles_to_kilometers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/popcorn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/road_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-2-variables/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/Can_you_be_a_senator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/Do_you_have_a_dollar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/donor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/full_time_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/quiz_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/star_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/syallabus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sp24-ITEC/Week-3-if-statements/testing.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Sp24-ITEC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2b5lFjispv0y8WSvHK770PEjr1d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Can_you_be_a_senator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Do_you_have_a_dollar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number_of_credits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Travel_expenses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.astronauts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.credits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.donor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.full_time_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invoice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.miles_to_kilometers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_of_credits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.popcorn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.road_trip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.star_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syallabus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lyndo\PycharmProjects\Sp24 ITEC\Week 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="astronauts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/astronauts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Sp24-ITEC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.astronauts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70f2739-c0d6-422a-af78-51cddd44c96d" name="Changes" comment="" />
+      <created>1705512719116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705512719116</updated>
+    </task>
+    <servers />
+  </component>
+</project>
